@@ -1,0 +1,14 @@
+/home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/deps/serde-ff89d70dbec46162.d: /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/build/serde-21774e4fcadce38f/out/private.rs
+
+/home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/deps/libserde-ff89d70dbec46162.rlib: /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/build/serde-21774e4fcadce38f/out/private.rs
+
+/home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/deps/libserde-ff89d70dbec46162.rmeta: /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/build/serde-21774e4fcadce38f/out/private.rs
+
+/home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/veersingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/build/serde-21774e4fcadce38f/out/private.rs:
+
+# env-dep:OUT_DIR=/home/veersingh/projects/dear-imgui-reflect-glam033/target/debug/build/serde-21774e4fcadce38f/out
