@@ -36,7 +36,7 @@ categories = [
     "api-bindings",
 ]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/Latias94/dear-imgui-rs"
+repository = "https://github.com/varda-games/dear-imgui-reflect-glam033"
 resolver = "2"
 
 [features]
